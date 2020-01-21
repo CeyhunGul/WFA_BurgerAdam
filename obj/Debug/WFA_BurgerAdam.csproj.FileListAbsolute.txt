@@ -1,0 +1,45 @@
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe.config
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csprojAssemblyReference.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Form1.resources
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Properties.Resources.resources
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.GenerateResource.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.CoreCompileInputs.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.exe
+C:\Users\celal.eker\Desktop\WFA_BurgerAdam\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csprojAssemblyReference.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Form1.resources
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Properties.Resources.resources
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.GenerateResource.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.CoreCompileInputs.cache
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.exe
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe.config
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe
+C:\Users\celal.eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe.config
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csprojAssemblyReference.cache
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Form1.resources
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Properties.Resources.resources
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.GenerateResource.cache
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.CoreCompileInputs.cache
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.exe
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.pdb
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.MenuItem.resources
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.HomeForm.resources
+C:\Users\celal eker\Desktop\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.OrdersDetails.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe.config
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.exe
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\bin\Debug\WFA_BurgerAdam.pdb
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csprojAssemblyReference.cache
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.HomeForm.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.MenuItem.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Form1.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.Properties.Resources.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.UIForm.OrdersDetails.resources
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.csproj.GenerateResource.cache
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.exe
+C:\Users\Biac\Downloads\Ödev Burger Adam\WFA_BurgerAdamOOP\WFA_BurgerAdam\obj\Debug\WFA_BurgerAdam.pdb
